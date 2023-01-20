@@ -8,3 +8,6 @@ Notebook along with Python's excellent matplotlib allows visualization of 3D cur
 idea of a concept than just reading it or memorizing identities.
 
 The notes are still incomplete, but I hope the repository will be helpful to others in the future.
+
+Regards,
+S, Gautam.
